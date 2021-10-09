@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 16px;
+    color: #333;
+    font-family: 'Arimo', sans-serif;
+    line-height: 24px;
+}
+.contenedor_fondo{
+    height: 500px;
+    max-width: 1200px;
+    margin: auto;
+    background-size: cover;
+    color: white;
+    background-image: url(../images/fondo_netflix.png);
+}
+.contenedor_texto{
+    padding-top: 100px;
+    text-align: center;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+p{
+    padding-top: 30px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 30px;
+}
+.ancho{
+    max-width: 1200px;
+    margin: auto;
+    border: red solid;
+}
+.contenedor_acceso{
+    text-align: right;
+}
+.login{
+    background-color: #d91318;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+.login:hover{
+    background-color: black;
+}
+.logo{
+    text-align: center;
+}
+header img{
+    margin: auto;
+    margin-top: 15px;
+}
+.contenedor_unir{
+    text-align: center;
+}
+.unirte{
+    background-color: #d91318;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-right: 20px;
+    padding: 30px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    background-image: url(../images/arrow.svg);
+    background-repeat: no-repeat;
+    background-position: 370px;
+}
+.menu{
+    background-color: #2e2e2e;
+    color: white;
+}
+.menu ul{
+    list-style: none;
+    border: 1px yellow solid;
+    /*Terminar*/
+}
