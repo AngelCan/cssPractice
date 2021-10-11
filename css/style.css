@@ -153,23 +153,33 @@ h2{
 }
 .p1{
     color: white;
+    text-align: center;
 }
 .p3{
+    text-align: center;
     color: #2a2a2a;
 }
 .contenido2{
     color: white;
     font-family: 'Antonio', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     padding-top: 20px;
-    
-}
-.contenido2 a{
-    flex-direction: row;
 }
 .contenido3{
     color: white;
     font-family: 'Antonio', sans-serif;
     font-size: 30px;
     padding-top: 20px;   
+}
+.tittle{
+
+    text-decoration: none;
+    display: inline-block;
+}
+.tittle a{
+    text-align: right;
+}
+.options{
+    text-align:center;
+    display: inline-block;
 }
