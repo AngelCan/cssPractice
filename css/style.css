@@ -95,6 +95,9 @@ header img{
     color: white;
     text-decoration: none;
 }
+.menu a{
+    text-decoration: none;
+}
 .footerP{
     background-color: #2e2e2e;
     align-content:space-around;
@@ -111,6 +114,9 @@ header img{
     font-size: 20px;
     color: white;
     
+}
+.footerP a{
+    text-decoration-color: white;
 }
 .contenedor_footer{
     text-align: space-around;
@@ -141,4 +147,39 @@ h2{
     text-align: right;
     margin-right: 20px;
     margin-bottom: 20px;
+}
+.icono2{
+    margin-left: 300px;
+}
+.p1{
+    color: white;
+    text-align: center;
+}
+.p3{
+    text-align: center;
+    color: #2a2a2a;
+}
+.contenido2{
+    color: white;
+    font-family: 'Antonio', sans-serif;
+    font-size: 15px;
+    padding-top: 20px;
+}
+.contenido3{
+    color: white;
+    font-family: 'Antonio', sans-serif;
+    font-size: 30px;
+    padding-top: 20px;   
+}
+.tittle{
+
+    text-decoration: none;
+    display: inline-block;
+}
+.tittle a{
+    text-align: right;
+}
+.options{
+    text-align:center;
+    display: inline-block;
 }
