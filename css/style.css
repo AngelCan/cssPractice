@@ -77,6 +77,9 @@ header img{
     background-repeat: no-repeat;
     background-position: 370px;
 }
+.unirte:hover{
+    background-color: #F4B408;
+}
 .menu{
     background-color: #2e2e2e;
     text-align: center;
@@ -86,6 +89,7 @@ header img{
     list-style: none;
     display: inline-block;
     align-content: space-around;
+    margin-left: 50px;
 }
 .menu p{
     padding-top: 30px;
@@ -156,6 +160,7 @@ h2{
     text-align: center;
 }
 .p3{
+    font-size: 23px;
     text-align: center;
     color: #2a2a2a;
 }
@@ -165,7 +170,7 @@ h2{
 .contenido2{
     color: white;
     font-family: 'Antonio', sans-serif;
-    font-size: 15px;
+    font-size: 10px;
     padding-top: 20px;
 }
 .contenido{
@@ -176,7 +181,7 @@ h2{
     padding: 30px;
 }
 .tittle{
-
+    margin-left: 40px;
     text-decoration: none;
     display: inline-block;
 }
