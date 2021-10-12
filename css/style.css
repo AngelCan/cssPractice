@@ -35,7 +35,7 @@ p{
 .ancho{
     max-width: 1200px;
     margin: auto;
-    border: red solid;
+    border: 10px #2a2a2a;
 }
 .contenedor_acceso{
     text-align: right;
@@ -85,7 +85,6 @@ header img{
 .menu ul{
     list-style: none;
     display: inline-block;
-    border: 1px yellow solid;
     align-content: space-around;
 }
 .menu p{
@@ -101,6 +100,7 @@ header img{
 .footerP{
     background-color: #2e2e2e;
     align-content:space-around;
+    padding: 30px;
 }
 .footerP ul{
     list-style: none;
@@ -159,17 +159,21 @@ h2{
     text-align: center;
     color: #2a2a2a;
 }
+.p4{
+    color: white;
+}
 .contenido2{
     color: white;
     font-family: 'Antonio', sans-serif;
     font-size: 15px;
     padding-top: 20px;
 }
-.contenido3{
+.contenido{
     color: white;
     font-family: 'Antonio', sans-serif;
     font-size: 30px;
-    padding-top: 20px;   
+    padding-top: 20px;
+    padding: 30px;
 }
 .tittle{
 
@@ -182,4 +186,8 @@ h2{
 .options{
     text-align:center;
     display: inline-block;
+}
+.twitter{
+    position: fixed;
+    right: 16px;
 }
